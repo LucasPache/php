@@ -1,8 +1,8 @@
 <?php
 
 
-acho "Olá mundo";
-
+echo "Olá mundo 123";
+acho "Olá Hcode"
 
 
 ?>
